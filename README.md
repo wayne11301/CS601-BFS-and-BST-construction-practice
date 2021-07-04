@@ -27,3 +27,6 @@ Sample tree picture:
 Output:
 
 <img src='result.PNG' title='result' width='' alt='result' />
+
+Team members:
+Name: Yi-Nong Wei, Vijayalaxmi Patil
