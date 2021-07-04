@@ -1,7 +1,6 @@
 /*
 Team members:
 Name: Yi-Nong Wei, Vijayalaxmi Patil
-NetID: my6799, rg8643
 */
 
 #include <iostream>
